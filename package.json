@@ -1,0 +1,18 @@
+{
+  "name": "clipboard-health-project",
+  "version": "1.0.0",
+  "description": "Contains solutions for Refactoring and Ticketing Problem",
+  "main": "deterministicPartitionKey.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ClipBoard",
+    "Health"
+  ],
+  "author": "Sarath Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
